@@ -2,7 +2,7 @@
 ### PROYECTO: Administrador de Clientes - Formik React Router 6 Tailwind JSON-Server
 
 
-#iniciar el proyecto
+# iniciar el proyecto
 
 1) npm i
 2) npm run dev 
